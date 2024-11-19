@@ -1,4 +1,5 @@
-streamlit==1.10.0
-selenium==4.4.0
-beautifulsoup4==4.11.1
-pandas==1.5.3
+streamlit
+selenium
+beautifulsoup4
+gunicorn
+
